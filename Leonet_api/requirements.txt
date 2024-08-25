@@ -1,0 +1,8 @@
+Flask>=3.0.3
+Flask_Cors>=4.0.1
+networkx>=3.3
+numpy
+PyAstronomy>=0.21.0
+PyAstronomy>=0.21.0
+sgp4>=2.23
+numba
